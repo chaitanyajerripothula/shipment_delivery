@@ -36,7 +36,6 @@
                                ├── Performance Monitoring
                                └── Retraining & Updates
 
-'''
 '''Data Preprocessing Mindmap for Machine Learning
 1. Data Collection / Acquisition
 Data Sources: Web scraping, APIs, Databases, CSV/Excel files, Data repositories (Kaggle, UCI)
@@ -173,6 +172,4 @@ Retrain model with new data (continuous learning)
 Update model based on feedback loops and changes in data distribution
 Conclusion
 For a novice to become an advanced practitioner, each step of the mindmap needs to be explored in depth with practice. Start with foundational concepts like data cleaning (missing values, outliers), and gradually move toward more complex techniques like feature engineering, encoding, and dimensionality reduction. By the time you reach model selection, evaluation, and deployment, you'll be able to work with both traditional and advanced methods.
-
-Would you like to dive deeper into any specific area? I can provide further explanations or examples.
 '''
